@@ -282,7 +282,7 @@ Foundational projects covering core statistical concepts for data science:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [Your Repository URL]
+    git clone https://github.com/ryantusi/AI-ML-Engineering.git
     ```
 2.  **Install dependencies:** It's highly recommended to use a virtual environment.
     ```bash
