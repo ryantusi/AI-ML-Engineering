@@ -1,4 +1,4 @@
-# 🤖 Codecademy AI/ML Engineering Portfolio
+# 🤖 AI/ML Engineering Portfolio
 
 ## Overview
 
